@@ -17,7 +17,7 @@ var swiper = new Swiper(".mySwiper", {
     pagination: {
         el: ".swiper-pagination",
     },
-    spaceBetween: 14,
+    spaceBetween: 18,
     on: {
         slideChange: function (e) {
             wrapper.dataset.slide = e.activeIndex;

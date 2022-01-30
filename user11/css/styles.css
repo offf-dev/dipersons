@@ -1,7 +1,7 @@
 :root {
-    --device-width: 360px;
-    --device-height: 781px;
-    --slider-width: 304px;
+    --device-width: 375px;
+    --device-height: 812px;
+    --slider-width: 310px;
     --slider-offset: 178px; /* offset from top to slider */
     --slider-pagination-bottom: 115px;  /* offset from bottom to pagination */
     --header-offset: 61px; /* offset from top to header */
